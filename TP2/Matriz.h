@@ -31,10 +31,10 @@ namespace Matrices{
     bool EsSimetrica(Matriz& Original);
 
     /* 
-        La matriz de una relación es simétrica si es asimétrica si 
-        todos los elementos de la diagonal principal son iguales a 0 y
-        los elementos repecto de la diagonal principal son opuestos o
-        ambos iguales a cero, es decir, es antisimétrica e irreflexiva.
+        La matriz de una relación es asimétrica si todos los elementos 
+        de la diagonal principal son iguales a 0 y los elementos repecto 
+        de la diagonal principal son opuestos o ambos iguales a cero, 
+        es decir, es antisimétrica e irreflexiva.
 
         Devuelve verdadero si la matriz es asimétrica.
     */
